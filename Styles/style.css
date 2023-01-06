@@ -227,3 +227,10 @@ footer {
     box-sizing: border-box;
     background: transparent
 }
+
+.future ul{
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    padding-left: 0;
+}
