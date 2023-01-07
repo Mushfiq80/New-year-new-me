@@ -11,6 +11,9 @@
     position: absolute;
     text-align: right;
 } */
+
+/* header section  */
+
 header {
     /* background: #FFF8F3; */
     background-image: url(../images/banner/banner2.png);
@@ -45,6 +48,7 @@ header {
 
 }
 
+/* button 2 types  */
 .btn-primary {
     height: 64px;
     background: #F15B22;
@@ -67,6 +71,7 @@ header {
     padding: 21px 25px;
 }
 
+/* Failure previous year section goes here  */
 .fail {
     display: flex;
     align-items: center;
@@ -110,13 +115,14 @@ header {
 .fail ul {
     padding-left: 0px;
 }
-
+/* tick mark style here  */
 span {
     content: "\2713";
     color: green;
     font-weight: 400;
 }
 
+/* New year tips section */
 .how-to-start {
     background: #fce9d5;
     width: 100%;
@@ -165,12 +171,7 @@ span {
 
 }
 
-
-
-
-
-
-
+/* My plan section */
 .my-plan {
     display: flex;
     gap: 86px;
@@ -206,6 +207,7 @@ span {
     color: #737272;
 }
 
+/* Gradient  */
 .gradient {
     margin: 0 230px;
     max-width: 1140px;
@@ -233,6 +235,7 @@ span {
 
 }
 
+/* Footer section  */
 footer {
     background: #151414;
     width: 100%;
@@ -276,6 +279,7 @@ footer {
     margin-bottom: 32px;
 }
 
+/* footer right side */
 .f-sub {
     margin-bottom: 31px;
     font-weight: 600;
